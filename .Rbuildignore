@@ -1,5 +1,6 @@
 ^Features\.Rproj$
 ^\.Rproj\.user$
+^.*\.Rproj$
 .git
 .gitignore
 .travis.yml

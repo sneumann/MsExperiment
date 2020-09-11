@@ -17,7 +17,7 @@
 #'
 #' @import Spectra
 #' @import methods
-#' @import Features
+#' @import QFeatures
 #' @import ProtGenerics
 NULL
 
